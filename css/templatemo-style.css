@@ -91,14 +91,14 @@ p {
 }
 
 .left-banner-content h6 {
-	font-size: 14px;
+	font-size: 30px;
 	font-weight: 700;
 	color: #fff;
 }
 
 .left-banner-content h1 {
 	font-size: 64px;
-	font-weight: 300;
+	font-weight: 900;
 	color: #fff;
 	line-height: 70px;
 }
@@ -108,7 +108,7 @@ p {
 	height: 3px;
 	margin-top: 20px;
 	margin-bottom: 30px;
-	background-color: #f4bc51;
+	background-color: #DA212E;
 }
 
 .left-banner-content .white-border-button {
@@ -618,9 +618,6 @@ p {
 }
 
 .front .icon {
-	width: 140px;
-	height: 140px;
-	line-height: 140px;
 	text-align: center;
 	background-color: transparent;
 	border: 0px solid #fff;
@@ -874,7 +871,7 @@ footer p em {
 
 	.left-banner-content h1 {
 		font-size: 64px;
-		font-weight: 300;
+		font-weight: 900;
 		color: #fff;
 		line-height: 80px!important;
 	}
