@@ -91,14 +91,14 @@ p {
 }
 
 .left-banner-content h6 {
-	font-size: 14px;
+	font-size: 30px;
 	font-weight: 700;
 	color: #fff;
 }
 
 .left-banner-content h1 {
 	font-size: 64px;
-	font-weight: 300;
+	font-weight: 900;
 	color: #fff;
 	line-height: 70px;
 }
@@ -108,7 +108,7 @@ p {
 	height: 3px;
 	margin-top: 20px;
 	margin-bottom: 30px;
-	background-color: #f4bc51;
+	background-color: #DA212E;
 }
 
 .left-banner-content .white-border-button {
@@ -202,23 +202,16 @@ p {
 }
 
 .best-offer-left-content {
-	min-height: 550px;
-	height: 550px;
-	padding-top: 175px;
-	padding-bottom: 175px;
-	text-align: center;
-	background-image: url(../img/best-offer-bg.png);
+	text-align: center ;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center center;
+	background-color: #E7E7E7;
+	background-position: center;
 }
 
 .best-offer-left-content .icon {
 	text-align: center;
 	margin: 0 auto;
-	width: 140px;
-	height: 140px;
-	line-height: 140px;
 	background-color: transparent;
 	border: 1px solid #fff;
 	border-radius: 50%;
@@ -484,7 +477,7 @@ p {
 
 .testimonial-image {
 	text-align: center;
-	background-image: url(../img/testimonial-left-image.png);
+	background-image: url(../img/ecole.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -497,7 +490,7 @@ p {
 	padding-top: 100px;
 	padding-bottom: 100px;
 	text-align: center;
-	background-image: url(../img/testimonial-bg.png);
+	background-image: url(../img/ecole-bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -532,7 +525,7 @@ p {
 #owl-testimonial .item p {
 	font-size: 17px;
 	font-style: italic;
-	color: #4a4a4a;
+	color: #000000;
 	padding: 0px 120px;
 	font-weight: 300;
 	line-height: 28px;
@@ -618,9 +611,6 @@ p {
 }
 
 .front .icon {
-	width: 140px;
-	height: 140px;
-	line-height: 140px;
 	text-align: center;
 	background-color: transparent;
 	border: 0px solid #fff;
@@ -874,7 +864,7 @@ footer p em {
 
 	.left-banner-content h1 {
 		font-size: 64px;
-		font-weight: 300;
+		font-weight: 900;
 		color: #fff;
 		line-height: 80px!important;
 	}
@@ -894,6 +884,12 @@ footer p em {
 		margin-top: 10px;
 		padding-right: 10px;
 		padding-left: 10px;
+	}
+	.best-offer .col-md-6 {
+		margin-top: 10px;
+		padding-right: 10px;
+		padding-left: 10px;
+		background-color: #E7E7E7;
 	}
 
 	.best-offer-right-content {
